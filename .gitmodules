@@ -1,0 +1,3 @@
+[submodule "Suits"]
+	path = Suits
+	url = git@github.com:krunal-lia/Suits.git
